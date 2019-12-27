@@ -4,9 +4,9 @@
 
 1. 下载go版本battery historian
 
-  go get -d -u github.com/google/battery-historian/...
-  或者
-  git clone github.com/google/battery-historian.git
+go get -d -u github.com/google/battery-historian/...
+或者
+git clone github.com/google/battery-historian.git
 
 2. 下载base.html 替换原码下的 battery-historian\templates\base.html
 3. 下载好cdn目录 放入到battery-historian\third_party 目录
