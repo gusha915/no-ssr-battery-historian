@@ -3,6 +3,7 @@
 解决battery historian国内网络无ssr而无法部署问题
 
 1. 下载go版本battery historian
+
 go get -d -u github.com/google/battery-historian/...
 
 2. 下载base.html 替换原码下的 battery-historian\templates\base.html
