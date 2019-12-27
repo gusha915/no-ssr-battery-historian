@@ -10,5 +10,6 @@
 6. 运行 go run cmd/battery-historian/battery-historian.go
 
 
-1.1 go get -d -u github.com/google/battery-historian/...
-1.2. git clone github.com/google/battery-historian.git
+1.1            go get -d -u github.com/google/battery-historian/...
+
+1.2            git clone github.com/google/battery-historian.git
